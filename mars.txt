@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Hello on Mars!
-Line addes by Jared
+
+Line added by Tyler 
+>>>>>>> 9bc3ef1e0c0bb264a650feedd13a71a9aced7fee
